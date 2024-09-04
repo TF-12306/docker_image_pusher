@@ -1,1 +1,1 @@
-node:20.16.0
+amazoncorretto:17.0.12-al2023
