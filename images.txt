@@ -1,2 +1,1 @@
-amazoncorretto:17.0.12-al2023
-docker.io/library/redis:7.2.6
+docker.io/library/redis:7.2.11
