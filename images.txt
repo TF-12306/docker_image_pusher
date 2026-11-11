@@ -1,2 +1,1 @@
-docker.io/library/redis:7.2.12
-jenkins/jenkins:2.580.2-lts
+3.9.6-sapmachine-17
