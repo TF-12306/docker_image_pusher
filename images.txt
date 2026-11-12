@@ -1,1 +1,1 @@
-maven:3.9.6-amazoncorretto-17-debian-bookworm
+mgoltzsche/podman:5.8.2-remote
