@@ -1,2 +1,1 @@
-mgoltzsche/podman:5.8.2-remote
 node:20.19.6
