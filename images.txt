@@ -1,1 +1,1 @@
-redis:8.12-rc3-trixie
+amazoncorretto:17.0.21-al2027
