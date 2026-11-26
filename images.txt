@@ -1,1 +1,1 @@
-amazoncorretto:17.0.21-al2027
+nginx:1.30.8
